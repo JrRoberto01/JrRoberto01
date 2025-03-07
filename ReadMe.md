@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🧑‍🌾 Roberto, 22 anos<br>🎓 Estudante | Engenharia de Software UNIVASSOURAS<br>👨🏻‍💻 Front End<br>🏋🏻 Aprimorando conhecimentos sem parar
+🧑‍🌾 Roberto, 23 anos<br>🎓 Estudante | Engenharia de Software UNIVASSOURAS<br>👨🏻‍💻 Front End | HTML | CSS | JS | BOOTSTRAP | REACT<br>🏋🏻 Aprimorando conhecimentos sem parar
 
 
 ## 🌐 Redes Sociais:
